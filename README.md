@@ -1,8 +1,9 @@
 Please Read to run hassle free execution of my_school.exe Applicaton:
 
 1. At First Install MySQL Server Database 5.5 version, 
-2. Installation Procedure is given in README.txt  after Download of 
+2. Installation Procedure is given in ReadMe_For_Mysql_DATABASE.txt Download
     MySQL Server 5.5 Database from www.rmsoft.tk 
+    read  ReadMe_For_Mysql_DATABASE.txt while installing MySQL Server
 3. After Successful complition of MySQL server 
    Open : my_school folder > double click/run > my_school.exe 
 4. Any Changes Regarding you school administration :
